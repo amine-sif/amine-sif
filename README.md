@@ -1,10 +1,9 @@
 ## Hi there 👋
 
 ## 🔭 What I'm up to
-- 📊 Building and automating **ETL pipelines** with Microsoft Fabric, PySpark, and Power Automate
-- 🗄️ Maintaining a central database that consolidates 10+ business entities
-- 📈 Creating **Power BI** dashboards with advanced DAX
 - 🎓 Bachelor of Software Engineering at ÉTS (expected 2028)
+- Building and automating ETL pipelines with Microsoft Fabric, PySpark, and Power Automate
+- Creating Power BI dashboards with advanced DAX
 
 ## 🛠️ Tech Stack
 
