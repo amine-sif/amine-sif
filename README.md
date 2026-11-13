@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-## 🔭 What I'm up to
+## What I'm up to
 - 🎓 Bachelor of Software Engineering at ÉTS (expected 2028)
-- Building and automating ETL pipelines with Microsoft Fabric, PySpark, and Power Automate
-- Creating Power BI dashboards with advanced DAX
+- 📊 Building and automating ETL pipelines with Microsoft Fabric, PySpark, and Power Automate
+- 📈 Creating Power BI dashboards with advanced DAX
 
 ## 🛠️ Tech Stack
 
@@ -20,19 +20,9 @@
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
-**Systems & Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
 ## 👾 Some Projects
 - [**Bank-Project**](https://github.com/amins077/Bank-Project): Java banking application refactored in a team setting using a ticketing workflow, with phase-by-phase technical reports
 - **Self-hosted Cloud Server**: Ubuntu/Nextcloud deployment with SSH hardening, UFW firewall, user access management, and Bash backup automation
-
-## 🔐 Also
-Active Directory, Cisco networking, firewall configuration, VMware, ITSM
 
 ## 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-essif-078326348)
