@@ -1,5 +1,5 @@
 ## What I'm up to
-- 🎓 Bachelor of Software Engineering at ÉTS (expected 2028)
+- 🎓 Bachelor of Software Engineering at ÉTS
 - 📊 Building and automating ETL pipelines with Microsoft Fabric, PySpark, and Power Automate
 - 📈 Creating Power BI dashboards with advanced DAX
 
