@@ -19,7 +19,8 @@
 [![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)](#)
 
 ## Some Projects
-- [**Bank-Project**](https://github.com/amins077/Bank-Project): Java banking application refactored in a team setting using a ticketing workflow, with phase-by-phase technical reports
+- [**Banking-System**](https://github.com/amins077/Banking-System): Java banking application refactored in a team setting using a ticketing workflow, with phase-by-phase technical reports
+- [**Hack 2 the Future Hackathon**](https://github.com/IshakMegatli1/hack2future): Built a dashboarding and automated action tool for the Business Track challenge (Sales & Finance) in a 4-hour hackathon (team of 2)
 - **Self-hosted Cloud Server**: Ubuntu/Nextcloud deployment with SSH hardening, UFW firewall, user access management, and Bash backup automation
 
 ## Let's connect
