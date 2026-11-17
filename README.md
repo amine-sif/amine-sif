@@ -20,7 +20,7 @@
 
 ## Some Projects
 - [**Banking-Application**](https://github.com/amins077/Banking-Application): Java banking application refactored using a ticketing workflow, with phase-by-phase technical reports
-- [**Hack 2 the Future Hackathon**](https://github.com/IshakMegatli1/hack2future): Built a sales and finance dashboard with automated alerts in 4 hours (team of 2) for the Business Track challenge
+- [**Hack 2 the Future Hackathon**](https://github.com/IshakMegatli1/hack2future): Built a sales and finance dashboard with automated alerts in 4 hours (team of 2) for Hack 2 the Future 2026
 - **Self-hosted Cloud Server**: Ubuntu/Nextcloud deployment with SSH hardening, UFW firewall, user access management, and Bash backup automation
 
 ## Let's connect
