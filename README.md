@@ -19,9 +19,8 @@
 [![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)](#)
 
 ## Some Projects
-- [**Banking-Application**](https://github.com/amins077/Banking-Application): Java banking application refactored using a ticketing workflow, with phase-by-phase technical reports
+- [**Banking-Application**](https://github.com/amine-sif/Banking-Application): Java banking application refactored using a ticketing workflow
 - [**Hack 2 the Future Hackathon**](https://github.com/IshakMegatli1/hack2future): Built a sales and finance dashboard with automated alerts in 4 hours (team of 2) for Hack 2 the Future 2026
-- **Self-hosted Cloud Server**: Ubuntu/Nextcloud deployment with SSH hardening, UFW firewall, user access management, and Bash backup automation
 
 ## Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-essif-078326348)
