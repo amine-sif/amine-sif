@@ -23,4 +23,4 @@
 - [**Hack 2 the Future Hackathon**](https://github.com/IshakMegatli1/hack2future): Built a sales and finance dashboard with automated alerts in 4 hours (team of 2) for Hack 2 the Future 2026
 
 ## Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-essif-078326348)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-essif)
