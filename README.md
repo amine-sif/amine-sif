@@ -19,7 +19,7 @@
 [![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)](#)
 
 ## Some Projects
-- [**Client-Server Banking App in Java**](https://github.com/amine-sif/java-bank-client-server): Java banking application refactored using a ticketing workflow
+- [**Client-Server Banking App in Java**](https://github.com/amine-sif/java-bank-client-server): A legacy multi-threaded Java client-server banking application featuring a Swing GUI, custom socket networking, and transactional data structures.
 - [**Hack 2 the Future Hackathon**](https://github.com/IshakMegatli1/hack2future): Built a sales and finance dashboard with automated alerts in 4 hours (team of 2) for Hack 2 the Future 2026
 
 ## Let's connect
